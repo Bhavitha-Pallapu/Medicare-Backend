@@ -6,13 +6,6 @@
 [![Django](https://img.shields.io/badge/Django-5.2.4-green.svg)](https://djangorestframework.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue.svg)](https://postgresql.org)
 
----
-## 🎥 Video Tutorials
-
-| Tutorial | Link | Description |
-|----------|------|-------------|
-| 🚀 **Setup & Development** | [Watch Now](https://drive.google.com/file/d/1ypI4K_Qgz6Cr1zpiH0wcu1A8JsUN9AkB/view?usp=drive_link) | Initial setup, configuration & API testing |
-
 
 ---
 ## 🚀 Features
