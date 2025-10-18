@@ -2,7 +2,7 @@
 
 A modern, secure REST API for managing healthcare operations, built with Django. Perfect for clinics and healthcare providers who need to manage patients, doctors, and appointments efficiently.
 
-![Python Version](https://img.shields.io/badge/Python-3.11+-blue)
+![Python Version](https://img.shields.io/badge/Python-3.12+-blue)
 ![Django Version](https://img.shields.io/badge/Django-5.0.1-green)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
 
